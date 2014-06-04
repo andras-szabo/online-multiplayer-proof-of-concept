@@ -12,5 +12,6 @@ client.cpp).
 
 (Yes, I do realize it's cumbersome.)
 
-Video in action:
-Related blog post:
+Video of it in action: https://www.youtube.com/watch?v=sarewpDmFc8
+
+Related blog post: http://wp.me/p4HjQ1-3
